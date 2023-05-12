@@ -112,6 +112,7 @@ When a moderator hands out an infraction to a user, they must give a valid reaso
 |W1/1|First and only warning. The next infraction will be a more severe punishment. |
 |SOV-####|Strike Override, a permban, tempban, permaban, kick, or hardmute will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand.|
 |MQT|Ongoing investigation, for community safety, the user will be placed in hardmute status for 730 hours.|
+
 Users will keep their warning streak for two weeks from the first warning. If a user recieves another warning in the second week of the warning streak period, the period will reset and expire two weeks after.
 
 > **PLEASE NOTE:** Pointcove does not give infractions to others currently in the server to those who broke a rule in another server, unless if the consequence is very severe.
