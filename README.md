@@ -40,14 +40,14 @@ Pointcove welcomes everyone to access our facilities. However, we have strict ru
 
  1. Guests must not attempt to evade any security measures put in place in Pointcove buildings, including locked doors.
  2. You are not to activate any false emergency alarms.
- 3.**ANY** sexual acts are forbidden. You are not to engage in any sexual act, or promote any sexual act/content in any Pointcove facility.
+ 3. **ANY** sexual acts are forbidden. You are not to engage in any sexual act, or promote any sexual act/content in any Pointcove facility.
  4. Please utilize the restrooms with good conduct.
  5. Inciting violence or RP terrorism in a Pointcove facility is strictly prohibited. This includes but is not limited to:
- --Shooting
- --Bombing
- --Suicide (will result in refferal to appropriate agencies)
-5. Visitors should comply with any instructions provided by Pointcove SecureTeam or other Pointcove staff in the event of an emergency or other situation.
-6. The use of exploit software (Synapse X, etc.) is not allowed.
+ - Shooting
+ - Bombing
+ - Suicide (will result in refferal to appropriate agencies)
+ 6. Visitors should comply with any instructions provided by Pointcove SecureTeam or other Pointcove staff in the event of an emergency or other situation.
+ 7. The use of exploit software (Synapse X, etc.) is not allowed.
 ### Section B5 - Events outside of Pointcove Facilities
 Once in a while, Pointcove will host events outside of their facilities for any reason. We have regulations for these circumstances too.
 > **NOTICE:** Guidelines from the venue the event is hosted at will apply on top of these additional guidelines. Please consult the moderation department for the venue of the event for more information.
@@ -69,7 +69,7 @@ Once in a while, Pointcove will host events outside of their facilities for any 
 |W1/1|First and only warning. The next infraction will be a more severe punishment. |
 |SOV-####|Strike Override, a permban, tempban, permaban, or kick will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand. May be reported to Roblox.|
 |MQT|Ongoing investigation, for community safety, the user will be banned for 730 hours.|
-Users will keep their warning streak for two weeks from the first warning. If a user recieves another warning in the second week of the warning streak period, the period will reset and expire two weeks after.
+> Users will keep their warning streak for two weeks from the first warning. If a user recieves another warning in the second week of the warning streak period, the period will reset and expire two weeks after.
 ## Section C - Social Media
 Pointcove has various social media channels for others to increase interaction within the Pointcove community. However, we do have several ground rules for others interacting with these social platforms.
 By joining, commenting, chatting, or interacting in any other form in any Pointcove Social Media space, you automatically agree to comply with the following rules whilst present on accounts ran by Pointcove on these platforms.
