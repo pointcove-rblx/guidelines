@@ -90,6 +90,7 @@ Our Discord Server, or our Communications Server, is a place where others can ch
  11. Toxicity is **strictly** prohibited
  12. **You are not** to distribute malware by the means of DMs or on server grounds. This includes but is not limited to any website that is able to log IPs, cookies, or tokens.
  13. **Do not** distrubute assets that you do not have permission to distribute on Pointcove grounds.
+ 14. Hate speech against a minority, a specific group, a specific religion, or a specific person is **strictly** prohibited
  
  > **Note:** All incidents shall be properly reviewed by UM and cascada.rblx. Messages are not to be deleted until the situation is assessed by the parties mentioned prior.
  
