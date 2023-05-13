@@ -1,5 +1,5 @@
 # Pointcove Environmental Consistency Handbook
-Revision 23A-INITIALREV1, UM Preliminary Implementation
+Revision 23A-INIT1, Initial Enforcement, May 2023
 
 This handbook will contain all of Pointcove's operations guidelines. There may be some other guidelines where for the respective section, will be referred to another set of guidelines. However, this handbook contains all of the general expectations for all of Pointcove's operations.
 
@@ -61,14 +61,15 @@ Once in a while, Pointcove will host events outside of their facilities for any 
 |W1/3|First warning|
 |W2/3|Second warning|
 |W3/3|Third warning, next consequence in O (Above Warning) stage.|
-|O1/4|Above Warning Level 1, 48 hour ban, report to Roblox|
-|O2/4|Above Warning Level 2, 168 hour ban, report to Roblox|
-|O3/4|Above Warning Level 3, 730 hour ban, report to Roblox|
-|O4/4|Above Warning Level 4, 8760 hour ban, report to Roblox|
-|O4/4|Above Warning Level 5, Permanent ban, report to Roblox|
+|O1/5|Above Warning Level 1, 48 hour ban, report to Roblox|
+|O2/5|Above Warning Level 2, 168 hour ban, report to Roblox|
+|O3/5|Above Warning Level 3, 730 hour ban, report to Roblox|
+|O4/5|Above Warning Level 4, 8760 hour ban, report to Roblox|
+|O5/5|Above Warning Level 5, Permanent ban, report to Roblox|
 |W1/1|First and only warning. The next infraction will be a more severe punishment. |
 |SOV-####|Strike Override, a permban, tempban, permaban, or kick will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand. May be reported to Roblox.|
 |MQT|Ongoing investigation, for community safety, the user will be banned for 730 hours.|
+
 > Users will keep their warning streak for two weeks from the first warning. If a user recieves another warning in the second week of the warning streak period, the period will reset and expire two weeks after.
 ## Section C - Social Media
 Pointcove has various social media channels for others to increase interaction within the Pointcove community. However, we do have several ground rules for others interacting with these social platforms.
