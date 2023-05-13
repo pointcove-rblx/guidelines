@@ -1,5 +1,5 @@
 # Pointcove Environmental Consistency Handbook
-Revision 23A-INITIALREV, UM Preliminary Implementation
+Revision 23A-INITIALREV1, UM Preliminary Implementation
 
 This handbook will contain all of Pointcove's operations guidelines. There may be some other guidelines where for the respective section, will be referred to another set of guidelines. However, this handbook contains all of the general expectations for all of Pointcove's operations.
 
@@ -132,6 +132,25 @@ The Stockroom Shops Team is a suboperation of Pointcove with complete management
 Blissful Cafe is a subgroup of Pointcove with complete management by Pointcove UM. As of the publication of this document, it is currently pending conversion to suboperation status. This suboperation is the department responsible for all operations at all Blissful Cafe locations.
 ### Section D7 - Julian Venues
 Julian Venues is a subgroup of Pointcove with complete management by Pointcove UM. As of the publication of this document, it is currently pending conversion to suboperation status. This suboperation is the department responsible for all operations concerning Julian Theatre, and future Julian Venues operations. 
+
+## Section F - Partners
+Pointcove allows other groups to partner with the group by filling out a [form](https://docs.google.com/forms/d/e/1FAIpQLSdlhOLEEOPqXNqNcdccSiyZ6trBe3YqR9VoiQWDJFetQC5stQ/viewform). 
+
+There are certain prerequisites when applying for partnership:
+-   Must have at least 20 members in Roblox group
+-   Must have at least 20 members in the group Discord Server (excluding bots)
+
+Partners *must* have the ability to comply with the following:
+
+ - Maintain good relations with Pointcove
+ - Must not abuse partnership in any way
+
+## Section G - Drama Handling Statement
+Pointcove classifies as an independent, "decentralized" and neutral safe space, part of a greater collection of other companies called the Roblox Tech Community. In this case:
+
+ - Pointcove disregards all other RTECH-related drama.
+ - Pointcove does not punish visitors or members for matters that are not strictly or directly related to Pointcove.
+ - You will not be punished for what you haven't done in Pointcove.
 
 ## Section Z - Appendix
 ### Z1 - What Pointcove considers as:
