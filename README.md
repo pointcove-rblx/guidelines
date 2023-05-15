@@ -31,7 +31,7 @@ Rarely anyone is able to become a UM member of Pointcove. Developers are also co
 ### A3 - Staff Consequence Matrix
 | Code | Consequence |
 |--|--|
-| IN | **UM ONLY** - Failiure to reply to the bi-weekly activity check five times will result in complete removal from their role.|
+| IN | **UM ONLY** - Failure to reply to the bi-weekly activity check five times will result in complete removal from their role.|
 |LK|Leaking will result in immediate removal from current role, a ban/block from all social platforms, and a ban from all Pointcove experiences.|
 
 ## Section B - Facilities
