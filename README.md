@@ -121,7 +121,7 @@ Users will keep their warning streak for two weeks from the first warning. If a 
 
 ## Section D - Registered Sub-Operations
 ### Section D1 - Kumo Airlines
-Kumo Airlines is a subgroup of Pointcove with partial ownership. It is managed by comis and Pointcove UM.s all This subgroup is creating.
+Kumo Airlines is a subgroup of Pointcove with partial ownership. It is managed by comis and Pointcove UM.
 ### Section D2 - Pointcove SecureTeam
 Pointcove SecureTeam is a suboperation of Pointcove with complete management by Pointcove UM. Pointcove is creating its own guidelines that will be placed here on top of the Pointcove guidelines.
 ### Section D3 - Freshwater Schools
