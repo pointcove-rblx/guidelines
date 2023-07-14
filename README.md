@@ -1,5 +1,5 @@
 # Pointcove Environmental Consistency Handbook
-Revision 23A-INIT1, Initial Enforcement, May 2023
+Revision 23B, July 2023 1st Edition
 
 This handbook will contain all of Pointcove's operations guidelines. There may be some other guidelines where for the respective section, will be referred to another set of guidelines. However, this handbook contains all of the general expectations for all of Pointcove's operations.
 
@@ -136,11 +136,13 @@ Blissful Cafe is a subgroup of Pointcove with complete management by Pointcove U
 Julian Venues is a subgroup of Pointcove with complete management by Pointcove UM. As of the publication of this document, it is currently pending conversion to suboperation status. This suboperation is the department responsible for all operations concerning Julian Theatre, and future Julian Venues operations. 
 
 ## Section F - Partners
-Pointcove allows other groups to partner with the group by filling out a [form](https://docs.google.com/forms/d/e/1FAIpQLSdlhOLEEOPqXNqNcdccSiyZ6trBe3YqR9VoiQWDJFetQC5stQ/viewform). 
+Pointcove allows other groups to partner with the group by opening the corresponding ticket in the Discord Server. 
 
 There are certain prerequisites when applying for partnership:
--   Must have at least 20 members in Roblox group
--   Must have at least 20 members in the group Discord Server (excluding bots)
+-   Must have at least 100 members in Roblox group and Discord Server (excluding bots)
+-   Must have an active staff team
+-   Must have an active community
+-   Must maintain good conduct throughout all aspects
 
 Partners *must* have the ability to comply with the following:
 
