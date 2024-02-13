@@ -1,5 +1,5 @@
 # Pointcove Environmental Consistency Handbook
-Revision 23B, July 2023 1st Edition
+Revision PRE24, Feburary 2024 Cumulative Update
 
 This handbook will contain all of Pointcove's operations guidelines. There may be some other guidelines where for the respective section, will be referred to another set of guidelines. However, this handbook contains all of the general expectations for all of Pointcove's operations.
 
@@ -17,9 +17,8 @@ Pointcove is recognized for its exceptional products and services, which are mad
 Being a Pointcove UM member is a serious responsibility. Keep in mind you are part of the management group responsible for every single operation in Pointcove. With this said, some of your responsibilities include utilizing common sense for everything and following all of the Pointcove ECH guidelines. **YOU MUST ALSO FOLLOW ALL RULES** that will be referenced below:
 
  1. UM members are to not evade their position of power for any given reason.
- 2. UM members are to respond to a **mandatory** bi-weekly activity check. [IN]
- 3. UM members are *not allowed to leak* any unreleased Pointcove product or project to the public. [LK]
- 4. UM members are not allowed to give moderation powers to unauthorized users in any platform without consent of any founder.
+ 2. UM members are *not allowed to leak* any unreleased Pointcove product or project to the public. [LK]
+ 3. UM members are not allowed to give moderation powers to unauthorized users on any platform without consent of any founder.
 
 #### A2A - How one becomes a UM Member:
 Rarely anyone is able to become a UM member of Pointcove. Developers are also considered UM staff as they share the same Team Create permissions with all other UM roles. The only possibilities for one to become a UM member is if:
@@ -31,7 +30,7 @@ Rarely anyone is able to become a UM member of Pointcove. Developers are also co
 ### A3 - Staff Consequence Matrix
 | Code | Consequence |
 |--|--|
-| IN | **UM ONLY** - Failure to reply to the bi-weekly activity check five times will result in complete removal from their role.|
+| IN | Failure to reply to staff activity checks five times will result in complete removal from their role.|
 |LK|Leaking will result in immediate removal from current role, a ban/block from all social platforms, and a ban from all Pointcove experiences.|
 
 ## Section B - Facilities
@@ -48,7 +47,11 @@ Pointcove welcomes everyone to access our facilities. However, we have strict ru
  - Suicide (will result in refferal to appropriate agencies)
  6. Visitors should comply with any instructions provided by Pointcove SecureTeam or other Pointcove staff in the event of an emergency or other situation.
  7. The use of exploit software (Synapse X, etc.) is not allowed.
-### Section B5 - Events outside of Pointcove Facilities
+### Section B2 - Establishment-specific Guidelines
+TBA
+### Section B3 - Events inside of Pointcove Establishments
+TBA
+### Section B4 - Events outside of Pointcove Establishments
 Once in a while, Pointcove will host events outside of their facilities for any reason. We have regulations for these circumstances too.
 > **NOTICE:** Guidelines from the venue the event is hosted at will apply on top of these additional guidelines. Please consult the moderation department for the venue of the event for more information.
  - Attendees are not to enter any restricted areas of both Pointcove and the venue.
@@ -67,7 +70,7 @@ Once in a while, Pointcove will host events outside of their facilities for any 
 |O4/5|Above Warning Level 4, 8760 hour ban, report to Roblox|
 |O5/5|Above Warning Level 5, Permanent ban, report to Roblox|
 |W1/1|First and only warning. The next infraction will be a more severe punishment. |
-|SOV-####|Strike Override, a permban, tempban, permaban, or kick will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand. May be reported to Roblox.|
+|SOV-####|Strike Override, a permban [SOV-PBAN], tempban [SOV-TBAN], kick [SOV-KICK], or chat mute [SOV-MUTE] will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand. May be reported to Roblox.|
 |MQT|Ongoing investigation, for community safety, the user will be banned for 730 hours.|
 
 > Users will keep their warning streak for two weeks from the first warning. If a user recieves another warning in the second week of the warning streak period, the period will reset and expire two weeks after.
@@ -112,7 +115,7 @@ When a moderator hands out an infraction to a user, they must give a valid reaso
 |O2/3|Above Warning Level 2, 168 hour ban|
 |O3/3|Above Warning Level 3, Permanent ban|
 |W1/1|First and only warning. The next infraction will be a more severe punishment. |
-|SOV-####|Strike Override, a permban, tempban, permaban, kick, or hardmute will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand.|
+|SOV-####|Strike Override, a permban [SOV-PBAN], tempban [SOV-TBAN], kick [SOV-KICK], or hardmute [SOV-MUTE] will be carried out instantly. Administrators have the right to override the standard consequences if a situation gets out of hand.|
 |MQT|Ongoing investigation, for community safety, the user will be placed in hardmute status for 730 hours.|
 
 Users will keep their warning streak for two weeks from the first warning. If a user recieves another warning in the second week of the warning streak period, the period will reset and expire two weeks after.
@@ -134,6 +137,8 @@ The Stockroom Shops Team is a suboperation of Pointcove with complete management
 Blissful Cafe is a subgroup of Pointcove with complete management by Pointcove UM. As of the publication of this document, it is currently pending conversion to suboperation status. This suboperation is the department responsible for all operations at all Blissful Cafe locations.
 ### Section D7 - Julian Venues
 Julian Venues is a subgroup of Pointcove with complete management by Pointcove UM. As of the publication of this document, it is currently pending conversion to suboperation status. This suboperation is the department responsible for all operations concerning Julian Theatre, and future Julian Venues operations. 
+### Section D8 - Queen Sirena Studios
+Queen Sirena Studios is a suboperation of Pointcove with complete management by Pointcove UM. No further details to be disclosed at this time.
 
 ## Section F - Partners
 Pointcove allows other groups to partner with the group by opening the corresponding ticket in the Discord Server. 
