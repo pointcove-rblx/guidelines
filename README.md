@@ -1,6 +1,6 @@
 
 # Pointcove Environmental Consistency Handbook
-Revision 24A, June 2024 1st Edition
+Revision 24A1, June 2024 1st Edition, Cumulative Amendment 1
 
 This handbook will contain all of Pointcove's operations guidelines. There may be some other guidelines where for the respective section, will be referred to another set of guidelines. However, this handbook contains all of the general expectations for all of Pointcove's operations.
 
@@ -83,7 +83,7 @@ Our Discord Server, or our Communications Server, is a place where others can ch
     
 2.  **Keep It Safe**: Do not share personal information or engage in activities that compromise your safety or the safety of others. This includes distributing IP grabbers, token loggers, or fake Nitro links.
     
-3.  **NSFW Prohibited**: The use of any sexual content, predatory behavior, and NSFW material is not allowed on any platform managed by Pointcove. Refrain from posting or sharing sexual content, including pornographic material, CSAM material, and suggestive phrases. Detailed guidelines are in Section Z1 of the Pointcove ECH document.
+3.  **NSFW Prohibited**: The use of any sexual content, predatory behavior, and NSFW material is not allowed on any platform managed by Pointcove. Refrain from posting or sharing sexual content, including pornographic material, CSAM material, and suggestive phrases. We also forbid ANY NSFW on user profiles. Note that Section Z1 of the ECH allows SecureTeam and above to determine which content is considered NSFW.
     
 4.  **Spamming Prohibited**: Avoid excessive messaging, flooding, or spamming in channels. This includes text, images, emojis, or repeated content.
     
@@ -197,7 +197,7 @@ Sexual Material
  - Phrases that are meant to be taken in a sexual context
  - **ANY** content containing minors participating in any sexual act, or CSAM material
 > **Notice:** Not all definitions of sexual material are defined in this list. In which case, any Pointcove staff member with permission to moderate can determine if such content additionally fits the definition of sexual content or sexually immoral content.
-
+> **Notice:** Pointcove SecureTeam and above WILL serve infractions to ANY user on Roblox or Discord for entering any of our digital platforms presenting any obscene content on their avatar (in-game and on the Discord server) and their server bio (in the Discord server)
 ### Z2 - Guideline Code
 Guidelines shall be identified by following the example provided below:
 > C1A-G1
